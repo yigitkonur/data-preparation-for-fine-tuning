@@ -58,6 +58,8 @@ Our scripts work with datasets in JSONL format. Each line in a JSONL file is a v
    ```
    python dataset-evaluator.py
    ```
+![CleanShot 2024-01-01 at 17 52 05@2x](https://github.com/yigitkonur/data-preparation-for-fine-tuning/assets/9989650/ee8bb83e-1ef1-4fb7-a167-ba9098406da6)
+
 
 #### Use Cases
 
